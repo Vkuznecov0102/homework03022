@@ -11,9 +11,9 @@ public class TestClass {
 
     @BeforeEach
     public void beforeEachTest() {
-        System.out.println("-------");
+//        System.out.println("-------");
         System.out.println("Сейчас нам предстоит тест");
-        System.out.println("-------");
+//        System.out.println("-------");
     }
 
     @Test
